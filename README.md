@@ -12,10 +12,15 @@ The pages Metals, Oil & Gas, Grains, Farm & Fishery, Agriculture softs, Fruit & 
 Indexes: RICI, RICIA, RICIE, RICIM.
 
 Metals: Gold, Silver, Platinum, Palladium, Aluminum, Copper, Iron Ore, Lead, Nickel, Zinc, Tin, Uranium.
+
 Oil & Gas: WTI Oil, Numex Oil, Brent Oil, Gas (Nymex), Gas (ICE).
+
 Grains: Corn, Oats, Rice, Soybeans, Wheat.
+
 Farm & Fishery: Live cattle, Poultry, Pork, Salmon, Shrimp, Dairy, Wool.
+
 Agriculture softs: Arabica coffee, Robusta coffee, Coffee (futures), Cocoa beans, Cocoa (futures), Tea, Sugar.
+
 Fruit & Nuts: Peanuts, Oranges, Orange Juice, Bananas.
 
 
